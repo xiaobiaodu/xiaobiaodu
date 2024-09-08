@@ -1,4 +1,4 @@
-<p2>Hi there, I am Shaocong (Daniel) Xu.</p2>
+<p2>Hi there, I am Xiaobiao (Hubert) Du.</p2>
 - 👨🏼‍💻 I am a **phd student** at University of Technology Sydney (UTS)
 - 🌱 I’m a visiting student at The University of Queensland (UQ)
 - 🔭 I’m working on 3D reconstruction and AIGC.
