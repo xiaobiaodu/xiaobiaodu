@@ -7,6 +7,5 @@
 - 📫 How to reach me: xbiaod@gmail.com
 
 
-[![Xiaobiao Du's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobiaodu)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobiaodu&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Xiaobiao Du's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobiaodu)](https://github.com/anuraghazra/github-readme-stats)[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobiaodu&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
