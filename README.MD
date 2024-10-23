@@ -10,3 +10,5 @@
 ！[Xiaobiao Du's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobiaodu)(https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobiaodu&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Ran Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiranran&show_icons=true&count_private=true&hide=prs&theme=default)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiranran&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
